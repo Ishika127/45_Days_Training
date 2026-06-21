@@ -1,0 +1,8 @@
+Product: ishika, Price: 34500, Quantity: 5
+Product: poataoto, Price: 4000, Quantity: 4
+Product: nenv, Price: 4, Quantity: 3233fdd
+Product: ishfd, Price: 212, Quantity: 323
+Product: uhrvg, Price: 3, Quantity: 322
+Product: vfkf, Price: 3322, Quantity: 233
+Product: vdf  , Price: 2233, Quantity: 233
+Product: jdf , Price: 2133, Quantity: 332
